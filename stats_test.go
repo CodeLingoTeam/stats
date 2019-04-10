@@ -1,4 +1,5 @@
-package stats
+package stats_test
+
 
 import (
 	"encoding/json"
